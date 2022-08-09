@@ -7,4 +7,7 @@
 Append ?raw=true to any file URL on Github to get the direct link.
 
 https://raw.githubusercontent.com/erickouassi/files/master/trex.jpg
+
 https://raw.githubusercontent.com/erickouassi/files/master/sound.mp3
+
+https://github.com/erickouassi/files/blob/master/sound.mp3?raw=true
